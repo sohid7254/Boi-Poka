@@ -2,7 +2,7 @@
 
 **Book Poka** is a modern book review and listing web app where users can browse, search, and explore books by category, author, or rating. Built with ReactJS, TailwindCSS, and Firebase, it offers a clean UI and secure user experience.
 
-![Screenshot](./assets/fullss.png)
+![Screenshot]([./assets/fullss.png](https://github.com/sohid7254/Boi-Poka/blob/main/src/assets/fullss.png))
 
 ---
 

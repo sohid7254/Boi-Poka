@@ -15,10 +15,10 @@
 ## 🛠️ Tech Stack
 
 - **Frontend:** ReactJS, TailwindCSS, DaisyUI
-- **Backend/Auth:** Firebase Authentication
+- **Backend/Auth:** json
 - **Database:** Firestore
-- **Routing:** React Router DOM
-- **Deployment:** Vercel
+- **Routing:** React Router
+- **Deployment:** netlify
 
 ---
 
@@ -26,11 +26,9 @@
 
 - 🔍 Search books by title, author, or category
 - 📚 Browse books with dynamic filtering
-- 🔐 User authentication (signup/login/logout)
 - 📝 Add and view book reviews
 - 📱 Responsive design for mobile and desktop
-- 🌐 Protected routes for logged-in users
-
+  
 ---
 ## Dependencies
 ```bash

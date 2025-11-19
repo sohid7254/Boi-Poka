@@ -11,7 +11,6 @@ const BookDetails = () => {
     const bookId = parseInt(id)
     const data = useLoaderData();
     const singleData = data.find(book => book.bookId === bookId)
-    console.log(singleData)
     const {image, bookName, author, category, review, tags, totalPages, publisher, yearOfPublishing, rating} = singleData
     const handleMarkAsRead = id => {
         addToStoreDB(id)
